@@ -32,10 +32,9 @@ flex:2;
     /* Makes the image round */
   }
 
-  #gitImage, #liImage, #envelope {
+  #gitImage, #liImage, #envelope, #engIcon {
   
-    max-width: 10%
-     
+    max-width: 10% 
   }
 
   #links a:hover {
@@ -53,7 +52,6 @@ flex:2;
 }
 
 #experience, #competences, #education, #links {
-
   padding-bottom: 10px;
 }
 
@@ -108,6 +106,11 @@ a {
   color: rgb(98, 124, 54);
 }
 
+#langSwitch a {
+  color: black;
+  font-size:1.1em;
+}
+
   h3 {
     font-size:1.4em;  
   }
@@ -135,7 +138,7 @@ a {
     max-width: 30%
   }
 
-  #gitImage, #liImage, #envelope  {
+  #gitImage, #liImage, #envelope, #engIcon  {
     max-width: 10%
   }
 
