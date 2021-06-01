@@ -1,4 +1,4 @@
-# Ett CV för webben
+# axelsvahn.github.io
 
-Detta är ett CV för webben som jag senare kommer att bygga ut med en riktig portfolio.
+Check it out at https://axelsvahn.github.io/.
 
